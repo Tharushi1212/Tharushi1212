@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://tharushiishanka.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Tharushi Ishanka</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <h3 align="center">A final year Software engineering undergraduate from Sri Lanka Institute of Information Technology.</h3>
