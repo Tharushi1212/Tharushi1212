@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tharushi Ishanka</h1>
+<h1 align="center">Hi 👋, I'm Tharushi Ishanka Nawarathna</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<h3 align="center">A final year Software engineering undergraduate from Sri Lanka Institute of Information Technology.</h3>
+<h3 align="center">A fresh graduate from Sri Lanka Institute of Information Technology.</h3>
 <img align="right" alt="coding gif" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharushi1212&label=Profile%20views&color=0e75b6&style=flat" alt="tharushi1212" /> </p>
